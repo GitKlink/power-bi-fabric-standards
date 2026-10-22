@@ -43,6 +43,8 @@ c38fdb9d7202d8588892f5035b63525e0195fc11  semantic-model/domains/semantic_measur
 **Scope and follow-ups**
 
 - This is a **preservation migration**, not an endorsement of every proposed backlog item.
-- The inherited folder layout has not been refactored; domain-governance boundaries are the subject of [Wayfinder #6](https://github.com/GitKlink/performance-reward-dashboard-architect/issues/6).
+- The inherited folder layout has not been refactored; domain-governance boundaries are the subject of [Architect #6](https://github.com/GitKlink/performance-reward-dashboard-architect/issues/6).
 - The AI semantic governance backlog and naming improvements are not implemented by this migration.
-- The File Library source remains unchanged. [Wayfinder #21](https://github.com/GitKlink/performance-reward-dashboard-architect/issues/21) tracks migration closure.
+- The File Library source remains unchanged. [Architect #21](https://github.com/GitKlink/performance-reward-dashboard-architect/issues/21) tracks migration closure.
+
+> **Terminology clarification (2026-10-22):** Historical references to the Architect's issues describe the Power BI / Fabric Architect project, not Matt Pocock's **Wayfinder** planning skill. This migration/parity record is unchanged in substance.
